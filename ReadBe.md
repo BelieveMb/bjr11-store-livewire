@@ -8,3 +8,4 @@ En u
     app/Livewire/Counter.php
     resources/views/livewire/counter.blade.php
     !! ** Les composants Livewire DOIVENT avoir un seul élément racine
+    # php artisan livewire:layout -> pour génèrer de fichier

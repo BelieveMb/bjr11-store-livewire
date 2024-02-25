@@ -9,8 +9,9 @@
 </head>
 <body>
     <div id="root"></div>
+    <h1>Home page</h1>
 
-    <script src="{{ asset('js/app.jsx') }}"></script> 
+    {{-- <script src="{{ asset('js/app.jsx') }}"></script>  --}}
 
 </body>
 </html>
