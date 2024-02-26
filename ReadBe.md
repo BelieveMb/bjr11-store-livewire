@@ -18,4 +18,5 @@ En u
     2. config le modèle racine de la vue -> app.blade.php
     3. publier le midlleware
     --Client side
-    1. 
+    1. install dependance -> npm install @inertiajs/react
+    2. install inertia app -> npm create inertia-app
